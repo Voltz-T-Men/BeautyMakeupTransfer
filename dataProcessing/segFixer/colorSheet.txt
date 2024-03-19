@@ -1,0 +1,20 @@
+blue green red
+[255, 255, 170]hair
+[255, 255, 255] background
+[  0, 255, 170] earing 
+[255, 255,   0]necklace
+[  0, 170, 255] neck 
+[170, 255,   0]left ear
+[ 0, 255,  85 ]right ear
+[  0, 255,   0] right eye
+[255,   0,  85]right eyebrow
+[255, 170,   0]left eyebrow
+[  0,   0, 255] nose
+[255,  85,   0]face
+[255,   0, 170] left eye
+[  0,  85, 255] lower lip
+[170,   0, 255]upper lip
+
+[85,   0, 255 ]teeth
+[255, 255,  85]clothes
+[255, 0, 255]hat

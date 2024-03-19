@@ -1,0 +1,2 @@
+1) Có vài ảnh sau khi cắt và align xong thì gặp viền đen
+2) có 1 ảnh ko nhận diện được khuôn mặt
