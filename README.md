@@ -28,9 +28,21 @@ app.py
 ## Pipeline
 <img src="pipeline.png" alt="Makeup Style Transfer PipeLine" width="800" height="600">
 
+## System Architecture
+<img src="architecture.png" alt="Makeup Style Transfer PipeLine" width="900" height="500">
+
+## BeautyGAN Model Architecture
+<img src="modelArchitecture.png" alt="Makeup Style Transfer PipeLine" width="900" height="500">
+
+## Data Preprocessing Procedure
+<img src="dataProcessing.png" alt="Makeup Style Transfer PipeLine" width="1000" height="500">
 
 ## Database Design Diagram
 <img src="Database_Design_Diagram.png" alt="Database Design Diagram" width="800" height="600">
+
+## UI-UX
+<img src="product.png" alt="Database Design Diagram" width="450" height="416">
+
 
 ## Contributors 
 - Nguyen Van Sy Thinh - SE173018
