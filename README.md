@@ -1,5 +1,5 @@
 # Makeup Style Transfer
-
+<img src="thumbnail.png" alt="Database Design Diagram" width="1100" height="400">
 ## Overview
 
 Makeup Style Transfer is a project that allows users to experiment with different makeup styles using a web application. Users can upload their makeup-free photos and virtually apply various makeup styles to see how they would look. The system uses AI-based filters for makeup transformation and suggests related beauty products based on the chosen makeup style.
@@ -77,6 +77,8 @@ we assume that you already satisfied the requirement in Installation Guide
 3. Download Expo app on smartphone, connect the phone to the same wifi as 
 the device that is running the terminals, then scan QR on the screen of that devices to open the app.
 
+## Demo Video
+[![IMAGE ALT TEXT HERE](videoThumbnail.png)](https://www.youtube.com/watch?v=WGOpqEL1s4Y)
 ## Contributors 
 - Nguyen Van Sy Thinh - SE173018
 - Le Quoc Viet - SE173577
